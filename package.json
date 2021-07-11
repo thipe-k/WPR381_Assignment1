@@ -1,0 +1,15 @@
+{
+  "name": "thipe_keorapetse_wpr381_assignment1",
+  "version": "1.0.0",
+  "description": "WPR node application for drawing shapes",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thipe Keorapetse",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
